@@ -6,7 +6,7 @@ Passionate about technology currently learning about the web developer world.
 
 
 
-<div>
+<div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="170em" src=https://github-readme-stats.vercel.app/api?username=leandrolm2&show_icons=true&theme=radical"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolm2&layout=compact&langs_count=7&theme=dracula"/>
