@@ -53,17 +53,6 @@ I'm a Back-End web developer
   <img src="https://img.shields.io/badge/-Git-orange?style=flat-square&labelColor=orange&logo=git&logoColor=gray" /></a>
 </p>
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
-
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/leandro-melgarejo-057a2b88/" /></a>
-</p>  
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leandrolm2&show_icons=true&theme=radical"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolm2&layout=compact&langs_count=7&theme=radical"/>
