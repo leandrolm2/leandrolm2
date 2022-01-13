@@ -6,7 +6,7 @@ I'm a Back-End web developer
 </p>
 
 <p align="left">
-  🦄 Langueges <strong>
+ 👅 Langueges <strong>
 </p>
   
 <p align="left">
