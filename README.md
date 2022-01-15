@@ -54,15 +54,16 @@ I'm a Back-End web developer
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  ✉ contact me: ⤵️
 </p>
-
+ 
 <p align="left">
-  <a href="#" alt="Outlook">
-  <img src="https://img.shields.io/badge/-Outlook-dodgerblue?style=flat-square&labelColor=dodgerblue&logo=outlook&logoColor=white&link=https://outlook.live.com/mail/0/" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-melgarejo-057a2b88/" /></a>
+  💌 leandromelgarejo@hotmail.com
+</p>
+ 
+<p align="left">
+  linkedin - https://www.linkedin.com/in/leandro-melgarejo-057a2b88/
+</p>
 
 </p>  
 
