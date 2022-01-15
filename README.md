@@ -42,6 +42,9 @@ I'm a Back-End web developer
 <p align="left">
   <a href="#" alt="VisualStudio">
   <img src="https://img.shields.io/badge/-VisualStudio-0e76a8?style=flat-square&logo=VisualStudio&logoColor=white&link" /></a>
+ 
+  <a href="#" alt="Node.JS">
+  <img src="https://img.shields.io/badge/-Node.JS-green?style=flat-square&logo=Node.JS&logoColor=white&link" /></a>
 
   <a href="#" alt="Adonis">
   <img src="https://img.shields.io/badge/-AdonisJS-black?style=flat-square&logo=AdonisJS&logoColor=white&link" /></a>
