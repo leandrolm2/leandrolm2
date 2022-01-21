@@ -65,7 +65,7 @@ I'm a Back-End web developer
 </p>
  
 <p align="left">
-  linkedin - https://www.linkedin.com/in/leandro-melgarejo-057a2b88/
+  Linkedin - https://www.linkedin.com/in/leandro-melgarejo-057a2b88/
 </p>
 
 </p>  
