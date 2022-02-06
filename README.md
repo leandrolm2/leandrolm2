@@ -2,7 +2,7 @@
 
 <p align="left"> 
 Hi there 👋, my name is leandro
-I'm a Back-End web developer
+I'm a Back-End developer
 </p>
 
 <p align="left">
